@@ -4,7 +4,7 @@ body	{
 	font-family: Georgia, Garamond, serif;
 	background-color: white;
 	}
-h1,h2	{
+h1 span, h2 span	{
 	color: #A4A400;	
 	background-color: #F0F0F0;
 	text-decoration: underline;

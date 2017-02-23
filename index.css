@@ -6,25 +6,41 @@ h2
 	font-size: 25pt;
 	}
 h3	{
-	font-size: 20pt;
+	font-size: 15pt;
+	margin-left: 40px;
 	}
 body	{
 	background-color: #000000;
 	color: #FFFFFF;
+	font-family: New Century Schoolbook, serif;
+
 	}
 p	{
+	margin-right: 500px;
 	margin-left: 40px;
+	
 	}
 table	{
 	margin-left: 40px;
 	border: 2px solid #FFFFFF;	
 	background-color: #43367B;
+	border-collapse: collapse;
 	}
-td	{	
-	border: 1px solid #FFFFFF;
+tr	{	
+	border-bottom: 1pt solid #FFFFFF;
 
 	}
-blockquote	{
-	background-color: #41367B;		
-		
+td	{
+	border-left: 1pt solid #FFFFFF;
 	}
+blockquote	{
+	margin-right: 700px;
+	background-color: #41367B;
+	font-style: italic;
+
+	}		
+a	{
+	margin-left: 40px;
+	color: #FFFFFF;
+	}		
+	

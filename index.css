@@ -1,0 +1,30 @@
+h1	{
+	font-size: 60pt;
+	}
+h2
+	{
+	font-size: 25pt;
+	}
+h3	{
+	font-size: 20pt;
+	}
+body	{
+	background-color: #000000;
+	color: #FFFFFF;
+	}
+p	{
+	margin-left: 40px;
+	}
+table	{
+	margin-left: 40px;
+	border: 2px solid #FFFFFF;	
+	background-color: #43367B;
+	}
+td	{	
+	border: 1px solid #FFFFFF;
+
+	}
+blockquote	{
+	background-color: #41367B;		
+		
+	}

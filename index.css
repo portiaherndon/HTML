@@ -10,7 +10,8 @@ h3	{
 	margin-left: 40px;
 	}
 body	{
-	background-color: #000000;
+	background-image: url("logo2.png");
+	background-attachment: fixed;
 	color: #FFFFFF;
 	font-family: New Century Schoolbook, serif;
 

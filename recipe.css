@@ -9,6 +9,7 @@ body	{
 	font-family: Georgia, Garamond, serif;
 
 	background: url("silverware.jpg");
+	background-attachment: fixed;
 	}
 blockquote{
 	font-style: italic;
@@ -33,5 +34,10 @@ a	{
 	}
 abbr	{
 	border-bottom: 1px dotted black;
+	}
+pre	{
+	font-family: monospace;
+	text-align: right;
+	margin-right: 900px;
 	}
 
